@@ -1,27 +1,19 @@
 ---
 title: "Lab 1: Software Installation"
 subtitle: "Julia, Quarto, GitHub"
-author: "CEVE 421/521" # TODO: add your name here
+author: "Patricia Hashimoto pch3" 
 jupyter: julia-1.10
 date: 2024-01-12
 week: 1
 categories: [Lab]
 
 format: 
-    html: default
-
-    # YOU DO NOT NEED BOTH PDF AND DOCX.
-    # COMMENT OR DELETE THE ONE YOU DON'T WANT TO USE.
+    #html: default
     pdf:
         documentclass: article
         fontsize: 11pt
         geometry:
             - margin=1in  
-        number-sections: true
-        code-line-numbers: true
-    docx: 
-        toc: true
-        fig-format: png
         number-sections: true
         code-line-numbers: true
 
